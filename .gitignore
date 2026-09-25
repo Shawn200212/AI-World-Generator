@@ -1,0 +1,16 @@
+# Showcase-only allowlist; all new files require disclosure review.
+*
+!/.gitignore
+!/AGENTS.md
+!/README.md
+!/README.zh-CN.md
+!/DISCLOSURE.md
+!/RIGHTS_AND_CREDITS.md
+!/docs/
+!/docs/public-media.json
+!/docs/media/
+!/docs/media/representation-scales.png
+!/docs/media/representation-scales-zh.png
+!/docs/media/corridor.webp
+!/docs/media/atrium.webp
+!/docs/media/ward.webp
