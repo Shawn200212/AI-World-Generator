@@ -34,6 +34,16 @@ Embeddings describe aspects of similarity and context. They can help choose rela
 
 Embedding 用于描述相似性和使用情境，可以帮助选择相关物件，但相似不等于放得下、走得到或用得了。当前医院原型把学习得到的资产特征与明确的空间、交互规则结合，在 Unreal Engine 中检查并修改生成的环境。
 
+## Reusable construction / 可复用的建构
+
+**English**
+
+AIWG is also exploring reusable geometry and material construction, so scene variety can extend beyond selecting items from a fixed asset collection. The direction connects spatial understanding, functional allocation, model construction and placement dependencies across objects, activity groups and rooms. Current prototypes still require geometric and material inspection; this is a development direction, not a demonstrated universal scene generator.
+
+**中文**
+
+AIWG 也在探索可复用的几何与材质建构，让场景种类不只取决于固定资产集合中的选件。这一方向把空间理解、功能分配、模型建构和依赖放置联系起来，覆盖物件、活动组与房间。当前原型仍需几何和材质检查；这里介绍的是开发方向，不代表已具备通用场景生成能力。
+
 ## My work and current limits / 我的工作与当前限制
 
 **English**
@@ -101,7 +111,7 @@ Development scene from the hospital prototype, shown as a lighting study—not e
 
 [Disclosure](DISCLOSURE.md) · [Image inventory](docs/public-media.json) · [Rights and credits](RIGHTS_AND_CREDITS.md)
 
-Overview updated 26 September 2026. The narrative, conceptual figure and scene images mirror the project website. This repository is a research overview, not a runnable project or a complete research artifact.
+Overview updated 5 October 2026. Existing concepts and scene images correspond to the earlier project website overview. The development-direction text was updated here; the website was not synchronized in this update. This repository is a research overview, not a runnable project or a complete research artifact.
 
 **中文**
 
@@ -109,4 +119,4 @@ Overview updated 26 September 2026. The narrative, conceptual figure and scene i
 
 [公开范围](DISCLOSURE.md) · [图片清单](docs/public-media.json) · [权利与署名](RIGHTS_AND_CREDITS.md)
 
-概览更新于 2026 年 9 月 26 日。正文、概念图和场景图与项目网页保持一致。本仓用于研究介绍，不是可运行工程或完整研究材料。
+概览更新于 2026 年 10 月 5 日。既有概念与场景图对应此前的项目网页概览。本次在此更新了开发方向文字，尚未同步项目网页。本仓用于研究介绍，不是可运行工程或完整研究材料。
