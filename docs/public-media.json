@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-10-28",
   "rights_notice": "RIGHTS_AND_CREDITS.md",
-  "description": "The same three development stills and bilingual conceptual figure as the project website. Not evaluation evidence.",
+  "description": "The same three hospital development stills and bilingual conceptual figure as the project website, plus one commercial kitchen development still added on 2026-10-28. Not evaluation evidence.",
   "items": [
     {
       "file": "docs/media/corridor.webp",
@@ -20,6 +20,12 @@
       "kind": "development_still",
       "caption_en": "Development scene from the hospital prototype, shown as a lighting study—not evidence of completed interaction tasks.",
       "caption_zh": "医院原型的开发场景，呈现灯光探索，不作为交互任务已完成的证据。"
+    },
+    {
+      "file": "docs/media/kitchen.webp",
+      "kind": "development_still",
+      "caption_en": "Development scene from the commercial kitchen prototype, an entrance overview—not evidence of completed interaction tasks.",
+      "caption_zh": "商用后厨原型的开发场景（入口全景），不作为交互任务已完成的证据。"
     }
   ],
   "figures": [

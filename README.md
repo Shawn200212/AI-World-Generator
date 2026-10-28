@@ -60,9 +60,13 @@ I develop the research concept, interaction design and prototype workflow. The t
 
 The work and manuscript are in progress. These scene images show the setting and visual development, not proof of complete interaction reliability or research effectiveness. This page shares the approach and its limits, without training details, experimental figures or player-study results.
 
+Since October the prototype has been extended from the hospital to a second setting, a commercial kitchen. The kitchen is built from reusable parametric parts with full material maps, and is used to test whether the same construction and checking workflow carries over to a different kind of space. Its interaction checks are scripted samples; it has not been reviewed in free play.
+
 **中文**
 
 工程与论文仍在推进。这里的场景图呈现场景和视觉探索，不证明交互已全面可靠或研究方法已经有效。本页只介绍思路与限制，不公开训练细节、实验数字或玩家研究结果。
+
+10 月起，原型从医院扩展到第二类空间：商用后厨。后厨由可复用的参数化部件搭建，材质带完整贴图，用来检验同一套搭建与检查流程能否用到另一类空间。后厨的交互检查是脚本化的抽样，还没有经过自由试玩评审。
 
 ## Inside the hospital prototype / 医院原型场景
 
@@ -103,6 +107,24 @@ Development scene from the hospital prototype, shown as a lighting study—not e
 
 医院原型的开发场景，呈现灯光探索，不作为交互任务已完成的证据。
 
+## Inside the kitchen prototype / 后厨原型场景
+
+**English**
+
+### A kitchen organised by work stations
+
+![A kitchen organised by work stations](docs/media/kitchen.webp)
+
+Development scene from the commercial kitchen prototype, an entrance overview—not evidence of completed interaction tasks.
+
+**中文**
+
+### 按工位组织的后厨
+
+![按工位组织的后厨](docs/media/kitchen.webp)
+
+商用后厨原型的开发场景（入口全景），不作为交互任务已完成的证据。
+
 ## Related pages / 相关页面
 
 **English**
@@ -111,7 +133,7 @@ Development scene from the hospital prototype, shown as a lighting study—not e
 
 [Disclosure](DISCLOSURE.md) · [Image inventory](docs/public-media.json) · [Rights and credits](RIGHTS_AND_CREDITS.md)
 
-Overview updated 5 October 2026. Existing concepts and scene images correspond to the earlier project website overview. The development-direction text was updated here; the website was not synchronized in this update. This repository is a research overview, not a runnable project or a complete research artifact.
+Overview updated 28 October 2026. Existing concepts and the hospital images correspond to the earlier project website overview. The kitchen paragraph and image were added here; the website was not synchronized in this update. This repository is a research overview, not a runnable project or a complete research artifact.
 
 **中文**
 
@@ -119,4 +141,4 @@ Overview updated 5 October 2026. Existing concepts and scene images correspond t
 
 [公开范围](DISCLOSURE.md) · [图片清单](docs/public-media.json) · [权利与署名](RIGHTS_AND_CREDITS.md)
 
-概览更新于 2026 年 10 月 5 日。既有概念与场景图对应此前的项目网页概览。本次在此更新了开发方向文字，尚未同步项目网页。本仓用于研究介绍，不是可运行工程或完整研究材料。
+概览更新于 2026 年 10 月 28 日。既有概念与医院场景图对应此前的项目网页概览。本次在此加入了后厨的说明和场景图，尚未同步项目网页。本仓用于研究介绍，不是可运行工程或完整研究材料。

@@ -1,6 +1,6 @@
 # Public disclosure scope / 公开范围
 
-This repository presents AIWG's research question, the author's role, a conceptual relationship between assets, activity groups and spaces, and three curated development stills. The overview also states the author-approved direction of reusable geometry and materials. Existing concepts and stills correspond to the earlier website overview; the latest direction text is currently updated in this repository only.
+This repository presents AIWG's research question, the author's role, a conceptual relationship between assets, activity groups and spaces, three curated development stills from the hospital prototype, and one from the commercial kitchen prototype added on 28 October 2026. The overview also states the author-approved direction of reusable geometry and materials. Existing concepts and stills correspond to the earlier website overview; the latest direction text is currently updated in this repository only.
 
 The nested figure describes scales, not model stages or generation order. Higher-level learning remains experimental. The scene images show visual development; they do not establish complete interaction reliability, an advantage over baselines or research effectiveness. The manuscript is unfinished and is not included.
 
@@ -16,7 +16,7 @@ Public concepts and images can be copied or imitated. This boundary reduces disc
 
 ---
 
-本仓只展示 AIWG 的研究问题、本人贡献、资产—活动组—空间之间的概念关系，以及三张精选开发静帧。概览还介绍作者授权公开的可复用几何与材质方向。既有概念与静帧对应此前的网页概览；最新方向文字目前只在本仓更新。
+本仓只展示 AIWG 的研究问题、本人贡献、资产—活动组—空间之间的概念关系，三张医院原型的精选开发静帧，以及 2026 年 10 月 28 日加入的一张商用后厨原型静帧。概览还介绍作者授权公开的可复用几何与材质方向。既有概念与静帧对应此前的网页概览；最新方向文字目前只在本仓更新。
 
 嵌套图表示尺度关系，不是模型阶段或生成顺序。上层学习仍在实验中；场景图只呈现视觉开发，不证明交互可靠性、优于基线或研究有效性。论文尚未完成，不在本仓公开。
 
